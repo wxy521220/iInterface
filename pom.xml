@@ -11,6 +11,7 @@
         <junit.api.version>5.6.2</junit.api.version>
         <junit.jupiter.version>5.6.2</junit.jupiter.version>
     </properties>
+
     <dependencies>
         <!-- allure -->
         <dependency>
